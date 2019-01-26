@@ -1,0 +1,6 @@
+{
+    "name": "cobenash/blazy",
+    "description": "bLazy is a lightweight script for lazy loading and multi-serving images, iframes, videos and more",
+    "keywords": ["blazy", "lazy-load", "Drupal"],
+    "type": "drupal-library"
+  }
